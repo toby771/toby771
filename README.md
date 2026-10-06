@@ -6,7 +6,7 @@
  <p align="center">
 
   
-<h3  align="center"> AI ML ENGINEER ,GENERATIVE AI ENGINEER </h3>
+<h3  align="center"> AI/ML ENGINEER, BACKEND DEVELOPER </h3>
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5612AQHmbpYRanwhfQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1735300309639?e=2147483647&v=beta&t=OFkHA6D6JoE5n5-TN487s5WIvc15d29IDfUcYdXnCk0" alt="Welcome" width="1000"/>
