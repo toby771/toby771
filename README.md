@@ -13,6 +13,28 @@
 
 
 </div>
+<h3 align="center"><img align="center" src="https://user-images.githubusercontent.com/118815227/218338072-ea477aa8-1374-4e2d-8dfd-dd8cc4e45656.gif" style="width: 45px; display: inline-block;" data-target="animated-image.originalImage">  I really like music 🎧💜</h3>
+<p align="center"><img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" style="width:322px; display: inline-block;" data-target="animated-image.originalImage"></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg" style="max-width: 100%;"></p>
+
+<article class="markdown-body entry-content container-lg f5" itemprop="text">
+<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+  <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+
+<p align="center" dir="auto">
+  <a href="https://readme.andyruwruw.com/api/now-playing?open" rel="nofollow">
+    
+  </a>
+</p>
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/top-played.svg"><img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/top-played.svg" style="max-width: 100%;"></a>
+  
+</p>
+<p align="center" dir="auto">
+ <img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</article>
+
 
 ---
 
