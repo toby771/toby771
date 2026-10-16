@@ -93,7 +93,6 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?logo=mui&logoColor=white)
 
 
